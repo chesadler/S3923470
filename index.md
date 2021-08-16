@@ -1,37 +1,95 @@
-## Welcome to GitHub Pages
+# My Portfolio
 
-You can use the [editor on GitHub](https://github.com/chesadler/S3923470/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### Critical Information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Name: Chey Sadler-Cahoon
+RMIT Student Number: S3923470
+Student Email Address: S3923470@student.rmit.edu.au
 
-### Markdown
+PICTURE:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hello! I’m Chey Sadler-Cahoon, aspiring software developer who’s studying for a Bachelor of Software Networking at RMIT (ideally to be transferred over to the Software Engineering sometime next year). I was born in London, England, and moved to Geelong in Australia almost a year exactly after I was born and come from an Australian + Irish family. I studied at St. Joseph’s Geelong before attending MIT, during which I transferred to RMIT because I felt I could not pursue my dreams under their tutelage. I also have a dog named Uzi (a long back story to that name specifically), and I look forward to working with you!
 
-```markdown
-Syntax highlighted code block
+## About Me
 
-# Header 1
-## Header 2
-### Header 3
+### What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).
 
-- Bulleted
-- List
+Well, like most people who seem to come out of high school nowadays, my interest in IT mainly was sparked because of, unsurprisingly, video games! Of course, in time, my interest only increased as our world seems more and more digitally dependent with each passing year. I really like the ideas of using software to overcome problems, even if they’re minor. I view coding something, specifically something with a ‘goal’ in mind, to be a puzzle, and the code necessary, the steps and programming required to all be a part of the puzzle to find a solution. It’s enjoyable to me to find creative solutions to problems, and a software engineer is my way of doing that. My IT experience, however, is unfortunately quite small due to the limited teaching I had at my secondary school, but otherwise, I’ve done 5 years’ worth of IT subjects.
 
-1. Numbered
-2. List
+### Why did you choose to come to RMIT?
 
-**Bold** and _Italic_ and `Code` text
+I chose to RMIT, as, already said above, I felt my experience at Melbourne Institute to be… Very lacking. It was ultimately two of my friends, however, who had convinced me to come to RMIT instead, and already, I feel a massive difference in the few weeks I’ve been here. The system is so much better and more updated, I haven’t been forced into any group assignments with non-existent students (yes, that did happen), and the accessibility to resources is certainly a lot easier than my previous experience. Personally, I don’t see it as much as a ‘transfer’ as I see it as an ‘upgrade.’
 
-[Link](url) and ![Image](src)
-```
+### What do you expect to learn during your studies?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+There are many things that I expect to learn and are expected to learn during my studies at RMIT. Mainly, however, what I want to learn is the ‘tools of the trade’ when it comes to software engineering. I already know some, as a result of earlier education, but I feel it is necessary to pursue further education on the matter to help me be successful in a job that I have great interest in. I have nothing specific in mind for what exactly I expect to learn, however, as that’s precisely the point of learning new things; to further my understanding of a subject.
 
-### Jekyll Themes
+## Ideal Job
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chesadler/S3923470/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[My Ideal Job] (https://www.seek.com.au/job/53044482?type=standard#searchRequestToken=8eb8c4f2-ac3a-4e69-aaaf-47ccace34621)
 
-### Support or Contact
+### A  description (in your own words) of the position, and particularly what makes this position appealing to you.
+As an ICT infrastructure engineer for Hays Technology, I would be responsible for the creation, usage, as well as upkeep of all their IT systems, both software and hardware, as well as constantly work to improve them for the betterment of the company (all that having been simplified, of course, because I can’t list everything otherwise, I fear that might be just as bad as copy pasting). I’d be lying if I said I wasn’t at all majorly interested due to their annual income (on top of Superannuation), but otherwise, it seems to fit what I like doing; that is, finding creative solutions to creative problems should they arrive, trying to figure out how to constantly improve upon what has been given, and while checking up on the different systems isn’t something I’m usually fond of, it certainly seems as if there are more pros then cons.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### A description (in your own words) of the skills, qualifications and experience required for the position.
+The requirements for an ICT Infrastructure Engineer at Hays technology can be summarised ass follows:
+
+-        Postgraduate qualifications in the IT/IS fields.
+
+-        Minimum of 10 years working as an ICT systems engineer.
+
+While there is more, I feel as if it is important to note the rather large distinction between knowledge and physical/educational requirements. For example, it lists ‘Knowledge of WAN/LAN setups.’ Knowledge is something that can be easily obtained, and, especially regarding the 10 years of experience, most of the other prerequisites are more highlighting what should already have been learnt as an ICT systems engineer. Therefore, by getting a Postgraduate qualification, which should then lead into being able to work as an ICT system, across the 3~ years of education, ideally, I would have learnt the necessary information for that job. Then, by applying that knowledge to practical use, not only do you further your knowledge in subjects you are familiar with, but also those you are unfamiliar with, which, by extension, will lead you to the other qualifications necessary. Hence, while they are ‘requirements’ quite literally listed, I don’t feel it should be important to name them; if you gain the other two requirements, no matter what you do, you will have at least gained experience in that field, and certainly have met the other prerequisites.
+
+### A description (in your own words) of the skills, qualifications and experience you currently have
+
+As stated above in the previous statement, I already have some of the skills in hand, mainly knowledge of coding and hardware components, and WAN/LAN network. However, my knowledge is still fairly limited (hence, why I’m going to university), so I hope to improve it in order to obtain the qualifications I require for my dream job.  
+
+### A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway) but try to be as specific as you can.
+
+In order to meet the requirements of this dream job, the main things that I need to achieve is a bachelor’s degree, and 10 years of experience. Everything else can be summarised as ‘knowledge,’ and I certainly feel it is easier to gain knowledge on a certain topic then it is to get a university degree and 10 years of experience.
+Ideally the plan in order to achieve my dream job in this particular instance, is to learn the key skills (or at least partially) that are listed/that are otherwise required of me at RMIT, then, upon getting my Bachelor of Software Engineering, attempt to find a job as a systems engineer (or at least something very close to it). Afterwards, begin working as a systems engineer at that company for 10 years, and, if I do not feel comfortable with my position at said company, promptly send in an application to Hays Technology to apply for the position. If my application is a success and I get the position I want, leave my current company, and move over to the new one, and if not, then stay in my position at my current company; if I’ve been working there for 10 years, then presumably it’s at least of adequate standards for a working environment, so I assume I would’ve already had made a comfortable living for myself.
+
+## Personal Profile
+
+### What do the results of these tests mean for you?
+First and foremost, the results from the 16 Personalities online was Virtuso. This means to me, that judging from my results that I am quite creative, spontaneous, and know how to prioritize; all good things when it comes to assignment work, due to the ability and understanding of prioritization, and spontaneous, which in this instance, means the ability to switch mindsets to new situations with little effort, making me versatile. Of course, there are certainly a few downsides, mainly, that I am quite reserved (which I recognise as true), which makes working in a collaborative environment, particularly with new people, very hard. The second one, referring to what learning type I am, suggests that I am a Visual+Tactile hybrid. essentially meaning that I prefer reading and practical application of work over audio, something I definitely agree with as I much rather prefer working with my own hands, and at my own pace, again, something that can be good, but not in an environment that calls for teamwork. The final one was a widely popular IQ test, to which it was simply meant to be a general gauge of my intelligence, which, from my understanding, is a high average, nearly bordering ‘superior’ (as judged from the Wescler Intelligence scales). Of course, this means nothing to me, other than the factual information that, using the IQ test as a rough estimate of my intelligence, despite the almost ‘bragging’ sound to the statement, that while I may not be a genius, I am certainly not a dullard.
+
+### How do you think these results may influence your behaviour in a team?
+
+As associated with my personality type, there is one major con to it that I wholeheartedly agree with. I am quite reserved as an individual, and as such, it can make working in a team harder, especially when I follow my own schedule and timetable as opposed to those around me, and I often find myself struggling with dealing with additional deadlines, especially when those deadlines revolve around the work done by others then those done by myself, as it makes me almost paranoid if they’ll get it done or not so I can complete my own tasks. The learning style test also proves that listening to others proves difficult for me, as I’m a person that much more prefers reading something at my own pace, or, much preferably, learn through it through interacting with it. This certainly can influence my behaviour in a team, as I may have trouble listening to extended conversations. The IQ test won’t influence my behaviour in a team at all, but, at the very least, can be somewhat used to show that I am not completely incapable of doing some work myself.
+
+### How should you take this into account when forming a team?
+
+As stated above, the above problems for the result from the above quiz can be easily solved. Firstly, in regard to the 16 Personalities quiz, while ‘interact more’ is certainly easier said than done, all I really need to do is make sure to get updates every now and then on how everyone’s doing. By doing so, I’ll be able to put my own mind at rest and can simply focus on my task while they focus on theirs (and, while I doubt it, it’ll also at least serve as proof that some team members weren’t doing their fair share of work). As for the Learning Type, the answer to that is easier as well, as I just need to ask my group members to provide me a list containing all instructions, requests, requirements for me to do, using a simple ‘textual’ format (such as a direct message, physical notes, etc) so that I don’t have to worry about the potential unfulfillment of my delegated tasks that were required of me, due to a lack of memory/rather short attention span. As for the IQ, while I certainly won’t need to bring it up with other groups (why would I?), it can at least serve as proof to myself that I do  have some proof, however small, that I am not wholly incapable of doing what is asked for me, and, to a reasonable extent of course, can be trusted to complete jobs on my own.
+
+## My Project
+
+### Project Overview
+The main idea of the project summarised in a single sentence is a ‘program that lets people learn how to touch type.’ While it seems like a basic thing, I’ve noticed that those with an age range above 40 to 50, seem to struggle a lot when it comes to typing fluently. This is actually quite problematic for some individuals who simply spend too much time worrying about where the keys on the keyboard are over actually trying to accomplish what they’re supposed to be using a device for. This program, keeping that in mind, is supposed to be simple but effective.
+
+### Motivation:
+The main motivation for why I thought this project would be interesting or useful, is that during the process of trying to think of a program to make, one of my parents approached me to ask where a letter was on a keyboard (it was a ‘?’ so they had trouble finding it). Then, I realised I have had experience with relatives who also had trouble with something that, in this day and age, is arguably one of the most necessary skills to learn. As such, I aim to make a product that should be used by children and the elderly – effectively those that most need understanding when it comes to modern technology.
+
+### Description: 
+Utilizing the tools available to me, I intend to make a program, directed at elderly and the young, specifically to help them learn how to ‘touch-type.’ Touch-typing, as the name implies, is when you are able to mentally picture the keys on a keyboard and type words, without issue, without having to look down at the keyboard. The reason that I aim to make my software directed towards mainly at the elderly and children, is that those are the ones that struggle the most when it comes to this ability. The elderly often have grown up in a time where such a skill was completely necessary, and while children grow up in this age with nearly unlimited acc to this technology, this product will server to help ‘smooth’ them along in a way that’s at least ‘moderately-fun’ (you can’t make an interesting, fun game for the elderly and for children about basically doing studying, trust me).
+First and foremost, the software should require no additional hardware or software downloads; once you’ve downloaded it, it should be good to go as it is. Most children and elderly don’t really have the understanding that some software requires other tools in order for the program to run, so it needs to be this simple, and arguably one of the more integral parts to the overall project.
+
+Upon running the program, the user should ideally be able to see a ‘start’ screen. Not only does this make everything seem neat, but it also makes it look completely user-friendly, as randomly throwing a keyboard on their screen upon the start of the program makes everything look very disorganized, no matter how you make it look. By placing a ‘start’ screen, you solve that issue, and even gives the illusion of ‘user-friendliness’ by simply only having that one button on the screen at the start.
+
+Then, upon clicking ‘start,’ the user should be presented with another three buttons, ‘easy,’ ‘medium,’ or ‘hard.’ These difficulties only change the length of the words used. For example, ‘easy’ would use ‘tree,’ or ‘rock.’ Medium might use, ‘Burger,’ a slightly longer word then what’s typical for ‘easy,’ whereas hard might use longer words such as ‘computer.’ The reason for this, is the user can choose to decide what level of ‘teaching’ would be best suited for them. Obviously, those using the program for the first time should use easy, while those more experienced should use medium, and those wanting a challenge should use ‘hard.’
+
+Ideally the words should be pulled from a set array, with a sufficient number of words that words being repeated shouldn’t be too often, most likely 30 words to 50 for each difficulty. This is to make sure that the user has a wide understanding of the keyboard layout mentally, without having to repeat each.
+
+Then, the words should appear on-screen, and the user should do their best not to look at their keyboard. Unfortunately, we have no way of ensuring that behaviour, of course, but, if they’re using our program, it’d be a fair assumption that it’s something they want to learn. By making it competitive with a score (as typical for most ‘games’) then that might encourage users to peek down so that they’re able to get more points, ‘winning’ in a game with no competition.
+
+The layout should be simple for users to understand, and the words being asked to spell should be “BIG” so as the elderly, typically having bad eyesight, should be able to read it with ease, and for children, specifically those younger, using capital letters is often a lot more recognisable than lower cases letters (ie ‘APPLE’ vs ‘Apple’).
+Tools and Technology.
+
+Considering the simplicity of this program, ideally it shouldn’t have any steep software or hardware requirements (most old people use older computers anyway). It most definitely shouldn’t require additional downloads, or third-party equipment for the consumer. However, for the developers, we will certainly need a scripting language that accommodates visuals, and inputs, and won’t require anything for the consumer to do other than download and use. Ideally, it shouldn’t need to open source, seeing as it should be a rather basic tool with a simple function, but for the developers will definitely need to use a tool to share it with other developers of the group (GitHub, most likely).
+
+### Skills required:
+Fortunately, the skills required won’t be too harsh, which works in our favour as developers. First and foremost, we need people that are able to write software, and are able to code the input of the keys as they’re being pressed (the entire program focuses on it, so it’s highly critical it gets done). Additionally, we need an artist to be able to draw a keyboard (although making it with simple ‘labels’ and ‘buttons’ on screen is sufficient, if not a bit plain) that glows as the keys are pressed, to show that the users are on the right track.
+
+### Outcome
+While it is unreasonable that every one of the elderlies uses our program, the hope is that they’ll be able to type faster, and, as a result, be able to google their own queries about how to solve problems for them, or complete their tasks faster then before, due to less time worried about spelling. The original problem, presuming that they keep using our program, should be ‘solved’ through this method, as it’s effectively the same way that you improve handwriting. You just keep at it. The impact of our project, even if it’s small, will at the very least be able to improve someone’s life when it comes to having trouble finding keys, and as such, even if it’s small, can be considered a functional success.
+
