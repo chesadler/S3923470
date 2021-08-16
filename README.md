@@ -1,6 +1,8 @@
 My Portfolio
 Critical Information
-Name: Chey Sadler-Cahoon RMIT Student Number: S3923470 Student Email Address: S3923470@student.rmit.edu.au
+Name: Chey Sadler-Cahoon 
+RMIT Student Number: S3923470 
+Student Email Address: S3923470@student.rmit.edu.au
 
 PICTURE:
 
